@@ -7,4 +7,4 @@
 <b>Team Member 2:</b><p> Hima Srijani Paturi</p>
 <b>Team Member 3:</b><p> Malla Tejaswi </p>
 <b>Team Member 4:</b><p> Anjali Singh</p>
-<b>Team Member 4:</b><p> Erukala Himachandana</p>
+<b>Team Member 5:</b><p> Erukala Himachandana</p>
