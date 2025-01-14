@@ -6,7 +6,7 @@ Robin Hood
 <b>Team Member 1</b><p>Kasi Reddy Aadya</p>
 
 <div align="center">
-  <img src="https://imgur.com/a/H4adVbQ">
+  <img src="https://imgur.com/aH4adVbQ.png">
 
 </div>
 <p align="center">Abstract</p>
@@ -17,10 +17,10 @@ Robinhood: An E-commerce Platform for Feminine Hygiene Products
 Robinhood is a nonprofit e-commerce platform that enables users to purchase feminine hygiene products for donation. By bridging the gap between donors and unprivileged communities, Robinhood ensures equitable access to essential hygiene products, empowering individuals and improving their quality of life.
 
 Requirements:
-<img src="https://imgur.com/8mAQNWD" width="130px" height="25px"></a><br>
-<img src="https://imgur.com/6t9h0OU" width="130px" height="25px"></a><br>
-<img src="https://imgur.com/ZYoNihP" width="130px" height="25px"></a><br>
-<img src="https://imgur.com/oX7oNxU" width="130px" height="25px"></a><br>
+<img src="https://imgur.com/8mAQNWD.png" width="130px" height="25px"></a><br>
+<img src="https://imgur.com/6t9h0OU.png" width="130px" height="25px"></a><br>
+<img src="https://imgur.com/ZYoNihP.png" width="130px" height="25px"></a><br>
+<img src="https://imgur.com/oX7oNxU.png" width="130px" height="25px"></a><br>
 
  Installation and usage:
 1. Install the neccesary packages and extensions required.
@@ -30,18 +30,18 @@ Requirements:
 5. Makes sure both the frontend and backend are integrated for the output
 
 Preview:
-<img src="https://imgur.com/GGucMW1">
-<img src="https://imgur.com/1m23Bfs">
-<img src="https://imgur.com/OMstiE6">
-<img src="https://imgur.com/g3s9bub">
-<img src="https://imgur.com/BII9COX">
-<img src="https://imgur.com/hx9DDVu">
-<img src="https://imgur.com/zAGSiWN">
-<img src="https://imgur.com/P1rPmiS">
-<img src="https://imgur.com/dmP2nIx">
-<img src="https://imgur.com/gvUR2Kl">
-<img src="https://imgur.com/AIpFhoK">
-<img src="https://imgur.com/DlK51nv">
+<img src="https://imgur.com/GGucMW1.png">
+<img src="https://imgur.com/1m23Bfs.png">
+<img src="https://imgur.com/OMstiE6.png">
+<img src="https://imgur.com/g3s9bub.png">
+<img src="https://imgur.com/BII9COX.png">
+<img src="https://imgur.com/hx9DDVu.png">
+<img src="https://imgur.com/zAGSiWN.png">
+<img src="https://imgur.com/P1rPmiS.png">
+<img src="https://imgur.com/dmP2nIx.png">
+<img src="https://imgur.com/gvUR2Kl.png">
+<img src="https://imgur.com/AIpFhoK.png">
+<img src="https://imgur.com/DlK51nv.png">
 
 Contribution:
 Guidelines for Contributing to Robinhood:
