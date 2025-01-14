@@ -1,6 +1,6 @@
 Robin Hood
 <h2>Team Details</h2>
-<b>Team Number:09 </b><p>24AAC</p>
+<b>Team Number:09 </b><p>24AACL09</p>
 <b>Senior Mentor</b><p>Srija Cherukuri</p>
 <b>Junior Mentor</b><p>Vaishnavi Addla</p>
 <b>Team Member 1</b><p>Kasi Reddy Aadya</p>
@@ -17,6 +17,7 @@ Robinhood: An E-commerce Platform for Feminine Hygiene Products
 Robinhood is a nonprofit e-commerce platform that enables users to purchase feminine hygiene products for donation. By bridging the gap between donors and unprivileged communities, Robinhood ensures equitable access to essential hygiene products, empowering individuals and improving their quality of life.
 
 Requirements:
+<br>
 <img src="https://imgur.com/8mAQNWD.png" width="130px" height="25px"></a><br>
 <img src="https://imgur.com/6t9h0OU.png" width="130px" height="25px"></a><br>
 <img src="https://imgur.com/ZYoNihP.png" width="130px" height="25px"></a><br>
@@ -30,6 +31,7 @@ Requirements:
 5. Makes sure both the frontend and backend are integrated for the output
 
 Preview:
+<br>
 <img src="https://imgur.com/GGucMW1.png">
 <img src="https://imgur.com/1m23Bfs.png">
 <img src="https://imgur.com/OMstiE6.png">
